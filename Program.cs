@@ -24,6 +24,14 @@
                         Day3.Day3Solution day3Solution = new();
                         day3Solution.ShowSolution();
                         break;
+                    case "4":
+                        Day4.Day4Solution day4Solution = new();
+                        day4Solution.ShowSolution();
+                        break;
+                    case "5":
+                        Day5.Day5Solution day5Solution = new();
+                        day5Solution.ShowSolution();
+                        break;
                     default:
                         Console.WriteLine("Invalid day selected! Try Again");
                         break;
