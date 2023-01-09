@@ -40,6 +40,10 @@
                         Day7.Day7Solution day7Solution = new();
                         day7Solution.ShowSolution();
                         break;
+                    case "8":
+                        Day8.Day8Solution day8Solution = new();
+                        day8Solution.ShowSolution();
+                        break;
                     default:
                         Console.WriteLine("Invalid day selected! Try Again");
                         break;
