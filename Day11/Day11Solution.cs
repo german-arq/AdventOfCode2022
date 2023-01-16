@@ -1,6 +1,4 @@
 ﻿using AdventOfCode2022.Abstract;
-using System.ComponentModel.DataAnnotations;
-using System.Security.Cryptography.X509Certificates;
 
 namespace AdventOfCode2022.Day11;
 
